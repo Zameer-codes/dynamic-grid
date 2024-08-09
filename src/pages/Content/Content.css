@@ -1,0 +1,7 @@
+.content-container{
+    width:auto;
+    /* border: 1px solid green; */
+    overflow: scroll;
+    scrollbar-width: none;
+    /* scrollbar-color: transparent; */
+}
